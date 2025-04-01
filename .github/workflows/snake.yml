@@ -2,8 +2,8 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once a day at midnight
-  workflow_dispatch: # Allows manual execution
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   generate:
@@ -12,24 +12,19 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Contribution Snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: bavindushan
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Upload Snake SVG
+      - name: Upload Artifact
         uses: actions/upload-artifact@v3
         with:
-          name: snake-artifact
-          path: dist
+          name: snake-animation
+          path: dist/github-contribution-grid-snake.svg
 
-      - name: Commit and Push Snake SVG
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Updated contribution snake animation" || echo "No changes to commit"
-          git push
+      - name: Push to Output Branch
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: dist
