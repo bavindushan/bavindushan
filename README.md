@@ -44,10 +44,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bavindushan&show_icons=true&locale=en" alt="bavindushan" /></p>
 
+	
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align="center">
   <img src="https://raw.githubusercontent.com/bavindushan/bavindushan/output/dist/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
+
 
 
