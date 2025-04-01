@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Bavindu Shan</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bavindushan&label=Profile%20views&color=0e75b6&style=flat" alt="bavindushan" /> </p>
 
 - 🔭 I’m currently working on **Exam-App extension for LMS**
 
 - 🌱 I’m currently learning **Microservices**
 
-- 👨‍💻 All of my projects are available at [https://bavindushan.github.io/My-Portfolio-2/](https://bavindushan.github.io/My-Portfolio-2/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://bavindushan.github.io/My-Portfolio-2/)
 
 - 📫 How to reach me **bavindushan65@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bavindushan&show_icons=true&locale=en&layout=compact" alt="bavindushan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bavindushan&show_icons=true&locale=en" alt="bavindushan" /></p>
+
