@@ -19,7 +19,7 @@ jobs:
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
           name: snake-animation
           path: dist/github-contribution-grid-snake.svg
