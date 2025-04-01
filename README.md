@@ -35,8 +35,8 @@ I'm a passionate **Software Engineering** student at *London Metropolitan Univer
 ### 📫 Connect with Me
 - 📧 Email: bavindushan65@gmail.com
 - 📱 Phone: +94 767743923
-- 💼 [LinkedIn](https://www.linkedin.com/in/bavindu-shan) *(Add your actual profile link!)*
-- 🔗 [GitHub](https://github.com/your-github-username) *(Replace with your username!)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/bavindu-shan)
+- 🔗 [GitHub](https://github.com/your-github-username)
 
 ---
 
