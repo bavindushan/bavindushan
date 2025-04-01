@@ -11,6 +11,9 @@
 <h4 align="left">Visitor's count :eyes:</h4>
 <p align="left"><img src="https://profile-counter.glitch.me/{bavindushan}/count.svg" alt="bavindushan :: Visitor's Count" /></p>
 
+[![GitHub followers](https://img.shields.io/github/followers/bavindushan.svg?style=social&label=Followers)](https://github.com/bavindushan?tab=followers)
+
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
@@ -47,10 +50,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bavindushan&show_icons=true&locale=en" alt="bavindushan" /></p>
 
 	
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 Contributions Graph
 	
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bavindushan/bavindushan/output/dist/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
 
 
