@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **Exam-App extension for LMS**
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **Microservices & AWS**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://bavindushan.github.io/My-Portfolio-2/)
 
