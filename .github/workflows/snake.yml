@@ -18,8 +18,12 @@ jobs:
           github_user_name: bavindushan
           outputs: dist/github-contribution-grid-snake.svg
 
+      - name: Verify generated file
+        run: |
+          ls -l dist/  # This will show the contents of the dist folder
+
       - name: Upload Artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: snake-animation
           path: dist/github-contribution-grid-snake.svg
