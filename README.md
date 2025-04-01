@@ -1,43 +1,26 @@
-### Hi there, I'm Bavindu Shan! 👋
+<h1 align="center">Hi 👋, I'm Bavindu Shan</h1>
+<h3 align="center">A passionate software developer from Sri Lanka</h3>
 
-#### 🚀 Software Engineering Student | Full-Stack Developer | Tech Enthusiast
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bavindushan&label=Profile%20views&color=0e75b6&style=flat" alt="bavindushan" /> </p>
 
-I'm a passionate **Software Engineering** student at *London Metropolitan University*, currently specializing in **Java, Spring Boot, and Angular**. I enjoy solving real-world problems through technology and am currently working on an **Attendance System using Face Recognition**. 
+- 🔭 I’m currently working on **Exam-App extension for LMS**
 
----
+- 🌱 I’m currently learning **Microservices**
 
-### 🛠️ Tech Stack
-- **Languages:** Java, JavaScript, TypeScript, Python
-- **Backend:** Spring Boot, .NET (learning), Node.js
-- **Frontend:** Angular, React, HTML, CSS
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, Docker, Miro (for mind maps), VS Code, IntelliJ IDEA
-- **Other Skills:** REST APIs, Microservices, Agile Development
+- 👨‍💻 All of my projects are available at [https://bavindushan.github.io/My-Portfolio-2/](https://bavindushan.github.io/My-Portfolio-2/)
 
----
+- 📫 How to reach me **bavindushan65@gmail.com**
 
-### 🔥 Current Focus
-- 📌 Learning **.NET & C#** for my internship applications
-- 🤖 Enhancing my **Face Recognition Attendance System**
-- 🚀 Looking for a **remote or on-site internship** in **Java, Spring Boot, and Angular**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/bavindu-shan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bavindu-shan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25358075/bavindu-shan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25358075/bavindu-shan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/bavindushan65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/bavindushan65" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### 🌟 Projects
-#### 📷 Face Recognition Attendance System
-- Built an **automated attendance system** using **OpenCV & Deep Learning**.
-- Features include real-time face detection, attendance marking, and duplicate prevention.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bavindushan&show_icons=true&locale=en&layout=compact" alt="bavindushan" /></p>
 
-#### 📌 More Projects Coming Soon!
-
----
-
-### 📫 Connect with Me
-- 📧 Email: bavindushan65@gmail.com
-- 📱 Phone: +94 767743923
-- 💼 [LinkedIn](https://www.linkedin.com/in/bavindu-shan)
-- 🔗 [GitHub](https://github.com/your-github-username)
-
----
-
-⚡ **"Code. Innovate. Create."** Let's build something amazing together! 🚀
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bavindushan&show_icons=true&locale=en" alt="bavindushan" /></p>
