@@ -1,11 +1,11 @@
   
 <h1 align="center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px />Hi 👋, I'm Bavindu Shan</h1>
-<p align="center" style="font-family: 'Times New Roman', serif; font-style: italic;">A passionate software developer from Sri Lanka</p>
+<p align="center" style="font-family: 'Times New Roman', serif; font-style: italic;">A passionate DevSecOps Engineer from Sri Lanka</p>
 
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;AI+Developer;Full+Stack+Developer;Computer+Science+Student;Active+Learner/Researcher;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;DevSecOps+Engineer;AI+Engineer;Full+Stack+Developer;Engineering+Student;Active+Learner/Researcher;"></a>
 </p>
 
 <!--horizontal divider(gradiant)-->
@@ -21,9 +21,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on **Exam-App extension for LMS**
+- 🔭 I’m currently working as **Software Engineer Intern & Linux System Administrator**
 
-- 🌱 I’m currently learning **Microservices & AWS**
+- 🌱 I’m currently learning **Kubernaties & Ansible**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://bavindushan.github.io/My-Portfolio-2/)
 
